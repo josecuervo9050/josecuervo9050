@@ -58,38 +58,3 @@
 [![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/sourabmaity)
 
 </details>
-
-## My Github Activity ⚡
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
-
-<!--END_SECTION:activity-->
-
-## My Trending Repos 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
-
-
-------
-
-
-Credit: [Sourab Maity](https://github.com/sourabmaity)
-Last Edited on: 02/07/2022
