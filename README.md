@@ -1,4 +1,4 @@
-<p>Hola mi Nombre es Jose D Cuervo:</p>
+<p style="font-size:25px; font-weight:bold;">Hola mi Nombre es Jose D Cuervo:</p>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
