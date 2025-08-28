@@ -25,7 +25,7 @@
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/r.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
