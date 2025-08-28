@@ -1,17 +1,13 @@
-<p style="font-size:25px; font-weight:bold;">Hola mi Nombre es Jose D Cuervo:</p>
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/9c8c0ccf-7901-4201-a3f1-69df0e31b6f1" /><p style="font-size:25px; font-weight:bold;">Hola mi Nombre es Jose D Cuervo:</p>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+I'm a 31-year-old Senior Data and Analytics Consultant with a strong intention to grow as a Data Scientist. I'm passionate about building solutions in Machine Learning, Artificial Intelligence, and Actuarial Science.
+
+📚 I'm actively learning Advanced Data Science to deepen my expertise.
+🤝 I'm looking to collaborate on projects related to Computer Science and Actuarial Science.
+📫 You can reach me at: jose.cuervo@aon.com
+⚽ Fun fact: I'm a passionate supporter of Millonarios FC!
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
