@@ -29,6 +29,9 @@
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
-
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/StatsModels.png' height='50'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/jupy.png' height='50'/>&nbsp;  
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/matplotlib.png' height='50'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/numpy.png' height='50'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/pandas.jpg' height='50'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/tens.png' height='50'/>&nbsp;
