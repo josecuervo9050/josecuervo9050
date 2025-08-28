@@ -25,7 +25,7 @@
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/R.png' height='40'/>&nbsp;<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/python.png' height='40'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/R.jpg' height='40'/>&nbsp;<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/python.png' height='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
