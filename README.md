@@ -15,7 +15,7 @@
 
 ## Let's Connect 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](www.linkedin.com/in/jdcuervo-129887108)&nbsp;  
+[<img src='https://github.com/josecuervo9050/josecuervo9050/blob/Logos/Logo_Linke.png' alt='linkedin' height='40'>](www.linkedin.com/in/jdcuervo-129887108)&nbsp;  
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
  
