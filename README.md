@@ -1,4 +1,4 @@
-<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/9c8c0ccf-7901-4201-a3f1-69df0e31b6f1" /><p style="font-size:25px; font-weight:bold;">Hola mi Nombre es Jose D Cuervo:</p>
+</p>Hola mi Nombre es Jose D Cuervo:</p>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
