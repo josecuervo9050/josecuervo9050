@@ -4,10 +4,10 @@
 
 I'm a 31-year-old Senior Data and Analytics Consultant with a strong intention to grow as a Data Scientist. I'm passionate about building solutions in Machine Learning, Artificial Intelligence, and Actuarial Science.
 
-📚 I'm actively learning Advanced Data Science to deepen my expertise.
-🤝 I'm looking to collaborate on projects related to Computer Science and Actuarial Science.
-📫 You can reach me at: jose.cuervo@aon.com
-⚽ Fun fact: I'm a passionate supporter of Millonarios FC!
+-📚 I'm actively learning Advanced Data Science to deepen my expertise.
+-🤝 I'm looking to collaborate on projects related to Computer Science and Actuarial Science.
+-📫 You can reach me at: jose.cuervo@aon.com
+-⚽ Fun fact: I'm a passionate supporter of Millonarios FC!
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
