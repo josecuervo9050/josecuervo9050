@@ -15,7 +15,7 @@
 
 ## Let's Connect 
 
-<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/Logo_Linke.png' height='40'/>&nbsp;<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/Logo_Linke.png' height='40'/>&nbsp;
+<img src = 'https://github.com/josecuervo9050/josecuervo9050/blob/main/Logo_Linke.png' height='40'/>&nbsp;
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
