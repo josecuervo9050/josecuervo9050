@@ -1,4 +1,4 @@
-<p><strong>Hi mi name es Jose D Cuervo:</strong></p>
+<p><strong>Hi my name es Jose D Cuervo:</strong></p>
 
 <img src="" alt="Imagen representativa">
 
