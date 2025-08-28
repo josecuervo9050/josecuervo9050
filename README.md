@@ -2,7 +2,7 @@
 
 <img src="" alt="Imagen representativa">
 
-<p>I'm a 31-year-old Senior Data and Analytics Consultant with a strong intention to grow as a Data Scientist. I'm passionate about building solutions in Machine Learning, Artificial Intelligence, and Actuarial Science.</p>
+<p>I'm a 31-year-old Senior Data and Analytics Consultant with a strong intention to grow as a Data Scientist. I'm passionate about building solutions in Machine Learning, Impact Evaluation, Econometrics and Actuarial Science.</p>
 
 <ul>
   <li>🏢 I’m currently working on AON.</li>
